@@ -1,0 +1,28 @@
+.container{
+    max-width: 1024px;
+    margin-top: 16px;
+    padding: 8px;
+    background-color: #eae9e9;
+}
+
+.container h1{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #bebebe;
+}
+
+label{
+    font-weight: bold;
+    font-style: italic;
+}
+
+input{
+    margin-bottom: 16px;
+}
+
+#telefone{
+    width: 150px;
+}
